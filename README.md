@@ -28,7 +28,7 @@ An AI-powered **Applicant Tracking System (ATS)** designed to streamline the rec
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ats9.git
+   git clone https://github.com/your-username/ai-driven-ats.git
    cd Applicant-Tracking-System
    ```
 
