@@ -38,19 +38,15 @@ An AI-powered **Applicant Tracking System (ATS)** designed to streamline the rec
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-4. **Set Up Environment Variables**:
+3. **Set Up Environment Variables**:
    - Create a `.env` file in the root directory.
    - Add your Google Gemini API key:
      ```plaintext
      GEMINI_API_KEY=your_api_key_here
      ```
 
-5. **Run the Application**:
+4. **Run the Application**:
    ```bash
    streamlit run app.py
    ```
