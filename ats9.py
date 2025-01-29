@@ -19,7 +19,7 @@ import re
 
 # Load API key from environment variables
 load_dotenv()
-genai.configure(api_key="AIzaSyAO3d8aviiNDoxKXYgBS2ywp_9ko3o8H28")
+genai.configure(api_key="")
 
 # Initialize sentence transformer model
 embedder = SentenceTransformer('all-MiniLM-L6-v2')
@@ -372,6 +372,6 @@ if submit_recruiter and uploaded_files:
 # Footer
 st.markdown("""
 <div class="footer">
-    <p>&copy; Applicant Tracking System | Developed by <a href="https://www.linkedin.com/in/udaykiran-bawage-657754233">Udaykiran Bawage</p>
+    <p>&copy; Applicant Tracking System | </p>
 </div>
 """, unsafe_allow_html=True)
