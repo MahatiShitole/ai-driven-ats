@@ -70,10 +70,6 @@ An AI-powered **Applicant Tracking System (ATS)** designed to streamline the rec
 4. Click **Analyze Resumes** to rank the resumes based on their fit with the job description.
 5. View the ranked resumes categorized as "Best Fit," "Moderate Fit," or "Not Fit."
 
-## Screenshots
-
-![ATS Dashboard](https://via.placeholder.com/800x400.png?text=ATS+Dashboard)
-![Resume Analysis](https://via.placeholder.com/800x400.png?text=Resume+Analysis)
 
 ## Contributing
 
