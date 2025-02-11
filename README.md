@@ -10,7 +10,7 @@ An AI-powered **Applicant Tracking System (ATS)** designed to streamline the rec
 - **Interview Preparation**: Generate technical interview questions tailored to the job role (fresher, intermediate, expert levels).
 - **Recruiter Dashboard**: Recruiters can upload multiple resumes, rank them based on job description fit, and categorize them as "Best Fit," "Moderate Fit," or "Not Fit."
 - **AI-Powered Insights**: Leverages **Google Gemini AI** and **Sentence Transformers** for natural language processing and semantic analysis.
-
+- **Personalized Skill Development** – Conducts skill gap analysis & suggests online courses to boost career growth.
 ## Technologies Used
 
 - **Python Libraries**:
